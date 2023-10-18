@@ -12,6 +12,8 @@
 ## About me
 <table>
 
+- 💼 I’m currently working on [Otavalo Trail](https://viveotavalotrail.com/)
+  
 - 🌐 Founder of the Freelance group [Webcats](https://beacons.ai/webcats)  
   
 - 🌱 I’m currently learning Docker for microservices  
