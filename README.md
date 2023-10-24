@@ -16,9 +16,7 @@
   
 - 🌐 Founder of the Freelance group [Webcats](https://beacons.ai/webcats)  
   
-- 🌱 I’m currently learning Docker for microservices  
-  
-- 🌱 I’m currently learning NodeJS  
+- 🌱 I’m currently learning NodeJS y NextJS  
   
 - 👨‍💻 All of my projects are available [here](https://rzaldumbide.me/)  
   
