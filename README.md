@@ -12,11 +12,11 @@
 ## About me
 <table>
 
-- 💼 I’m currently working on [Otavalo Trail](https://viveotavalotrail.com/)
+- 💼 I’m currently working on [Otavalo Trail](https://viveotavalotrail.com/) and [DebiSoft](https://debi.ec/) 
   
 - 🌐 Founder of the Freelance group [Webcats](https://beacons.ai/webcats)  
   
-- 🌱 I’m currently learning NodeJS y NextJS  
+- 🌱 I’m currently learning SvelteKit, Astro and Vue
   
 - 👨‍💻 All of my projects are available [here](https://rzaldumbide.me/)  
   
