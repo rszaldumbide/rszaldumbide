@@ -12,7 +12,7 @@
 ## About me
 <table>
 
-- 💼 I’m currently working on [Otavalo Trail](https://viveotavalotrail.com/) and [CodeLine](#) 
+- 💼 I’m currently working on [Smartpass](#) and [CodeLine](#) 
   
 - 🌐 Founder of the Freelance group [Webcats](https://beacons.ai/webcats)  
   
