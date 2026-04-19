@@ -56,7 +56,6 @@ I am a Software Engineer with **3+ years of experience** building scalable digit
 
 | Project | Description | Live Link |
 | :--- | :--- | :--- |
-| **Vive Otavalo Trail** | SaaS Engine for sports registration & analytics. | [View Project](https://viveotavalotrail.com) |
 | **Otavalo Explorer** | Multi-tenant landing system with automated reporting. | [View Project](https://otavaloexplorer.com) |
 | **Smartpass POS** | Ticketing & Kiosk system (Kotlin + Next.js + Deno). | *Private Repo* |
 
